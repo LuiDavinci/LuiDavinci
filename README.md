@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luigi</h1>
-<h3 align="center">A recent Computer Science Grad from Europe, I like Open Source Software and I try to contribute if and when I have the time.</h3>
+<h3 align="center">Currently enrolled in a Masters in Computer Science in Europe, I like Open Source Software and I try to contribute if and when I have the time.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
